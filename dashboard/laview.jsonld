@@ -6,6 +6,9 @@
   "prefLabel": {
   	"en": "LAViEW Profile"
   },
+ "definition" : {
+    "en": "LAViEW profile defines the interactions within the learning dashboards and evidence portal by various users"
+ },
   "author": {
     "type": "Organization",
     "name": "LET Research Unit, Kyoto University"
